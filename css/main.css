@@ -7,7 +7,41 @@ html {
   box-sizing: inherit;
 }
 
-div {
+.div {
   padding: .5rem;
   text-align: center;
+}
+
+.btn {
+  font-size: 1.125rem;
+  padding: .4em .75em .3em;
+  background-color: #333;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  border-width: 3px;
+  color: #fff;
+}
+
+.btn-subtle {
+  font-size: 1.125rem;
+  padding: .4em .75em .3em;
+  background-color: #ccc;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  border-width: 3px;
+  color: #fff;
+}
+
+.btn-ghost {
+  font-size: 1.125rem;
+  padding: .4em .75em .3em;
+  background-color: #fff;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  border-width: 3px;
+  color: #666;
+  border-color: #000;
 }
