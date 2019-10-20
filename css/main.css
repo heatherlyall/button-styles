@@ -21,6 +21,7 @@ html {
   border-radius: 8px;
   border-width: 3px;
   color: #fff;
+  display: inline-block;
 }
 
 .btn-subtle {
