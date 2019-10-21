@@ -41,25 +41,8 @@ html {
 
 .btn-small {
   font-size: .875rem;
-  padding: .4em .75em .3em;
-  background-color: #333;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 8px;
-  border-width: 3px;
-  color: #fff;
-  display: inline-block;
 }
-
 
 .btn-big {
   font-size: 1.5rem;
-  padding: .4em .75em .3em;
-  background-color: #333;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 8px;
-  border-width: 3px;
-  color: #fff;
-  display: inline-block;
 }
