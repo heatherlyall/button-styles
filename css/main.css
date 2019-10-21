@@ -22,10 +22,12 @@ div {
   color: #fff;
   display: inline-block;
   margin: auto;
+  border-style: solid;
 }
 
 .btn-subtle {
   background-color: #ccc;
+  border-style: solid;
 }
 
 .btn-ghost {
@@ -38,6 +40,7 @@ div {
 .btn-warning {
   background-color: #f33;
   color: #fff;
+  border-style: solid;
 }
 
 .btn-small {
