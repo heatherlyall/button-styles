@@ -33,6 +33,7 @@ html {
   border-radius: 8px;
   border-width: 3px;
   color: #fff;
+  display: inline-block;
 }
 
 .btn-ghost {
@@ -45,6 +46,7 @@ html {
   border-width: 3px;
   color: #666;
   border-color: #000;
+  display: inline-block;
 }
 
 .btn-warning {
@@ -56,6 +58,7 @@ html {
   border-radius: 8px;
   border-width: 3px;
   color: #fff;
+  display: inline-block;
 }
 
 .btn-small {
@@ -67,6 +70,11 @@ html {
   border-radius: 8px;
   border-width: 3px;
   color: #fff;
+  display: inline-block;
+}
+
+.btn-subtle-small {
+  font-size: .875rem;
 }
 
 
@@ -79,4 +87,5 @@ html {
   border-radius: 8px;
   border-width: 3px;
   color: #fff;
+  display: inline-block;
 }
