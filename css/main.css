@@ -25,40 +25,18 @@ html {
 }
 
 .btn-subtle {
-  font-size: 1.125rem;
-  padding: .4em .75em .3em;
   background-color: #ccc;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 8px;
-  border-width: 3px;
-  color: #fff;
-  display: inline-block;
 }
 
 .btn-ghost {
-  font-size: 1.125rem;
-  padding: .4em .75em .3em;
-  background-color: #fff;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 8px;
-  border-width: 3px;
   color: #666;
   border-color: #000;
-  display: inline-block;
+  background-color: #fff;
 }
 
 .btn-warning {
-  font-size: 1.125rem;
-  padding: .4em .75em .3em;
   background-color: #f33;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 8px;
-  border-width: 3px;
   color: #fff;
-  display: inline-block;
 }
 
 .btn-small {
@@ -71,10 +49,6 @@ html {
   border-width: 3px;
   color: #fff;
   display: inline-block;
-}
-
-.btn-subtle-small {
-  font-size: .875rem;
 }
 
 
